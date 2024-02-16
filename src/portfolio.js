@@ -83,6 +83,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Dynamics 365",
       fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
     }
   ]
 };

@@ -42,9 +42,9 @@
   }
   
   .greeting-image-div > img {
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
-    border-radius: 80%;
+    border-radius: 30%;
     display: block;
     text-align: center;
     margin:auto;

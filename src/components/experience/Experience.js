@@ -42,7 +42,20 @@ export default function Experience(){
             
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                date="2019 - "
+                date="2022 - 2023"
+                iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                icon={<WorkIcon />}
+            >
+                <h3 className="vertical-timeline-element-title">Software Engineer</h3>
+                <h4 className="vertical-timeline-element-subtitle">Binti</h4>
+                <p>
+                Optimize software infrastructure and development workflows, spearhead global expansion initiatives through innovative solutions, streamlined development processes while managing daily operations
+                </p>
+            </VerticalTimelineElement>
+
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                date="2019 - 2020"
                 iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                 icon={<WorkIcon />}
             >
@@ -104,8 +117,8 @@ related to computer systems, software, and hardware
                 contentStyle={{ "color": 'black'}}
                 icon={<SchoolIcon />}
             >
-                <h3 className="vertical-timeline-element-title">Bachelor of Science in Chemistry</h3>
-                <h4 className="vertical-timeline-element-subtitle">Bachelors Degree</h4>
+                <h3 className="vertical-timeline-element-title">UCLA</h3>
+                <h4 className="vertical-timeline-element-subtitle">Bachelor of Science in Chemistry</h4>
                 {/* <p>
                 Creative Direction, Visual Design
                 </p> */}

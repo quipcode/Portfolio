@@ -16,7 +16,7 @@ export default function Main(){
             <Header  />
             <Greeting/>
             <Skills/>
-            <Projects/>
+            {/* <Projects/> */}
             <Experience/>
             <Footer/>
             <Social/>

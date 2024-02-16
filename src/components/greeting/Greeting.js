@@ -41,7 +41,7 @@ export default function Greeting() {
         </div>
         <div className="greeting-image-div">
   
-          <img alt="ahmed crossed"  src={require("../../assets/images/profilePhoto.jpg")} ></img>
+          <img alt="ahmed green"  src={require("../../assets/images/croppedPortraitGreen.jpg")} ></img>
         </div>
       </div>
     </div>
